@@ -1,5 +1,5 @@
 
-# 🛍️ Proyecto eCommerce - Marca de Ropa
+# 🛍️ Proyecto eCommerce (FRONTEND) - Marca de Ropa
 
 Este repositorio contiene el desarrollo de una tienda online para una marca de ropa independiente creada por unos amigos. El objetivo de este proyecto es construir una plataforma moderna, escalable y fácil de usar para vender ropa en línea.
 
@@ -46,4 +46,4 @@ La estructura está completamente montada (frontend, backend y base de datos), p
    ```bash
    git clone https://github.com/tuusuario/tu-repo.git
    cd tu-repo
->>>>>>> c85050bebb0b1220c3bcbf5b318497e792944e3d
+
