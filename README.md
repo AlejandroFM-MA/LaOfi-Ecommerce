@@ -40,10 +40,16 @@ La estructura está completamente montada (frontend, backend y base de datos), p
 
 ---
 
-## 📦 Instalación local
+### Header
+![Imagen 1](./1.JPG)
 
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
-   cd tu-repo
+### Tail
+![Imagen 2](./2.JPG)
+
+### Carrito 
+![Imagen 3](./3.JPG)
+
+### Descripcion de producto 
+![Captura](./Captura.JPG)
+
 
