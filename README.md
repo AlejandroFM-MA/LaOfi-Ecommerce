@@ -1,14 +1,14 @@
 
-# 🛍️ Proyecto eCommerce (FRONTEND) - Marca de Ropa
+#  Proyecto eCommerce (FRONTEND) - Marca de Ropa
 
 Este repositorio contiene el desarrollo de una tienda online para una marca de ropa independiente creada por unos amigos. El objetivo de este proyecto es construir una plataforma moderna, escalable y fácil de usar para vender ropa en línea.
 
-🚧 **Estado del proyecto: EN DESARROLLO**  
+ **Estado del proyecto: EN DESARROLLO**  
 La estructura está completamente montada (frontend, backend y base de datos), pero aún faltan añadir las fotos y productos finales de la tienda.
 
 ---
 
-## 🧱 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **Frontend**: React  
 - **Estilos**: Tailwind CSS  
@@ -18,7 +18,7 @@ La estructura está completamente montada (frontend, backend y base de datos), p
 
 ---
 
-## ✨ Funcionalidades actuales
+##  Funcionalidades actuales
 
 - [x] Página de inicio con diseño responsive  
 - [x] Catálogo de productos (estructura lista, algunos productos de ejemplo)  
